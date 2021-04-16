@@ -1,5 +1,5 @@
-# Discord Raid BOT with Fake Commands
-# Requirements
+
+## Requirements
 
 > ``` "chalk" // npm install chalk --save```
 
