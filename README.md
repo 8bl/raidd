@@ -1,10 +1,8 @@
 # Discord Raid BOT with Fake Commands
+# Requirements
 
-
-requirements:
-
-"chalk" // npm install chalk 
+"chalk" // npm install chalk --save
 "config.json" // Token and prefix
-"hands" // Optional
+"discord.js" // npm install discord.js --save
 
 It is my first project, if you find errors or suggestions tell me
