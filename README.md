@@ -1,4 +1,4 @@
-# Raid-Bot-Fake-Commands
+# Discord Raid BOT with Fake Commands
 
 
 requirements:
